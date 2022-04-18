@@ -129,8 +129,13 @@ Most of the resources are free. But there is in anthing paid found from the link
     1. [90 Days Of DevOps by Michael Cade](https://github.com/MichaelCade/90DaysOfDevOps)
     2. [DevOps Guide by Tikam2](https://github.com/Tikam02/DevOps-Guide)
 
-5. Curated List Of Skills/Tools for 2022 DevOps Industry
+5. **Curated List Of Skills/Tools for 2022 DevOps Industry**
     1. [Video 1](https://www.youtube.com/watch?v=1pPHdvrUunY)
+
+6. **Communities**
+    1. [Community Classroom](https://www.commclassroom.org/home)
+    2. [Discord Servers](https://disboard.org/servers/tag/devops)
+    3. [Reddit](https://www.reddit.com/r/devops/)
 
 ## **Techniques For Interview And Jobs**
 
@@ -156,6 +161,7 @@ Most of the resources are free. But there is in anthing paid found from the link
     - [Remote](https://remote.com/)
     - [We Work Remotely](https://weworkremotely.com/)
     - [Twitter](https://twitter.com)
+    - [Reddit](https://www.reddit.com/r/devopsjobs/)
 2. Physical Jobs
     - LinkedIn
     - Referals
